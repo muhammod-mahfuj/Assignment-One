@@ -208,3 +208,19 @@ nav > h2 {
     padding: 20px;
     border-radius: 10px;
 }
+
+/* footer */
+#footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 60px;
+}
+#footer > span {
+    font-weight: bold;
+    font-size: 20px;
+}
+.social-media{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
